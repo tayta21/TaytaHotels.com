@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/TaytaHotels.com/static/css/main.4d3a8879.chunk.css",
+    "main.js": "/TaytaHotels.com/static/js/main.8cd60b6b.chunk.js",
+    "main.js.map": "/TaytaHotels.com/static/js/main.8cd60b6b.chunk.js.map",
+    "runtime-main.js": "/TaytaHotels.com/static/js/runtime-main.51439b97.js",
+    "runtime-main.js.map": "/TaytaHotels.com/static/js/runtime-main.51439b97.js.map",
+    "static/css/2.fc5c5e36.chunk.css": "/TaytaHotels.com/static/css/2.fc5c5e36.chunk.css",
+    "static/js/2.fe4c158a.chunk.js": "/TaytaHotels.com/static/js/2.fe4c158a.chunk.js",
+    "static/js/2.fe4c158a.chunk.js.map": "/TaytaHotels.com/static/js/2.fe4c158a.chunk.js.map",
+    "index.html": "/TaytaHotels.com/index.html",
+    "precache-manifest.c51b7e1b0afb5b25a8d92435ef4c39e7.js": "/TaytaHotels.com/precache-manifest.c51b7e1b0afb5b25a8d92435ef4c39e7.js",
+    "service-worker.js": "/TaytaHotels.com/service-worker.js",
+    "static/css/2.fc5c5e36.chunk.css.map": "/TaytaHotels.com/static/css/2.fc5c5e36.chunk.css.map",
+    "static/css/main.4d3a8879.chunk.css.map": "/TaytaHotels.com/static/css/main.4d3a8879.chunk.css.map",
+    "static/js/2.fe4c158a.chunk.js.LICENSE.txt": "/TaytaHotels.com/static/js/2.fe4c158a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TaytaHotels.com/static/media/background.1e315b31.jpg",
+    "static/media/logo.svg": "/TaytaHotels.com/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51439b97.js",
+    "static/css/2.fc5c5e36.chunk.css",
+    "static/js/2.fe4c158a.chunk.js",
+    "static/css/main.4d3a8879.chunk.css",
+    "static/js/main.8cd60b6b.chunk.js"
+  ]
+}
